@@ -1,4 +1,4 @@
-from .htmlNode import LeafNode
+from htmlNode import LeafNode
 
 text_type_text = "text"
 text_type_bold = "bold"
